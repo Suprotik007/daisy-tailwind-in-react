@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { Menu } from 'lucide-react';
+import { CircleX } from 'lucide-react';
 const navBarItems = [
     { id: 1, name: "Home", url: "https://example.com/home" },
     { id: 2, name: "About", url: "https://example.com/about" },
@@ -8,15 +10,24 @@ const navBarItems = [
   ];
   
 const Navbar = () => {
-    return (
-        <nav>
-<ul className='flex items-center'>
+    const [open,setOpen]=useState(false)
+    const links= navBarItems.map(route=><li className='mr-10 '><a href={route.url}>{route.name}</a></li>)
+        return (
+        <nav className='flex justify-between 'onClick={()=>setOpen(!open)}>
+            <span className='flex gap-1 '>  {open? <CircleX  className='md:hidden'/>: <Menu className='md:hidden' />}  
+            <ul className='md:hidden  'onClick={links}>
+                {links}
+            </ul>
+            <h3>NAVIGATION</h3></span>
+        
+<ul className='md:flex items-center hidden'>
     {
-        navBarItems.map(route=><li className='mr-10 '><a href={route.url}>{route.name}</a></li>)
+    links
     }
 </ul>
-
+<button className='bg-amber-200 p-2 text-black rounded-lg'>Sign In</button>
         </nav>
+        
     );
 };
 
