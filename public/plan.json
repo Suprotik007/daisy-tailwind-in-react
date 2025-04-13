@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "model": "Monthly Plan",
+    "price": "$10–$200/session",
+    "features": [
+      "Unlimited access to gym facilities.",
+      "Options for basic or premium plans (e.g., group classes, personal training).",
+      "Predictable monthly payments.",
+      "Free access to locker rooms and showers.",
+      "Discounts on partner wellness products."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 2,
+    "model": "Pay-as-You-Go",
+    "price": "$5–$20/session",
+    "features": [
+      "Flexible payment structure for occasional users.",
+      "No long-term commitment required.",
+      "Access to all equipment during the session.",
+      "Perfect for trying out the gym or specific classes.",
+      "Option to upgrade to a plan after a trial period."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 3,
+    "model": "Bundling Packages",
+    "price": "$: Discounted compared to individual services",
+    "features": [
+      "Combines gym access, fitness classes, and personal training sessions.",
+      "Encourages members to use multiple services at a reduced cost.",
+      "Includes free nutritional consultation.",
+      "Priority booking for popular classes and trainers.",
+      "Access to exclusive workshops or events."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 4,
+    "model": "Dynamic Pricing",
+    "price": "$: Variable (adjusts based on demand)",
+    "features": [
+      "Lower rates during off-peak hours (e.g., mornings, afternoons).",
+      "Higher rates during peak times to manage demand.",
+      "Encourages usage during quieter hours for better availability of equipment.",
+      "Real-time pricing updates through the gym app or website.",
+      "Special discounts for students or seniors during off-peak hours."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 5,
+    "model": "Value-Based Plan",
+    "price": "$100–$238/month",
+    "features": [
+      "Luxury amenities such as saunas, pools, and spa services.",
+      "Access to celebrity trainers or specialized coaching programs.",
+      "Complimentary towel service and premium locker rooms.",
+      "Free guest passes each month for friends or family.",
+      "Exclusive access to VIP-only areas or events."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 6,
+    "model": "Tiered Plan",
+    "price": "$45–$200/month",
+    "features": [
+      "Basic tier includes access to standard gym equipment and facilities.",
+      "Premium tier includes advanced classes, spa access, and personal training sessions.",
+      "Customizable tiers based on individual needs (e.g., yoga-only or weightlifting-only).",
+      "Option to upgrade or downgrade tiers anytime without penalties.",
+      "Priority customer support for higher-tier members."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 7,
+    "model": "Family/Group Plan",
+    "price": "$: Discounted rates for multiple members (e.g., $60–$150/month)",
+    "features": [
+      "Shared memberships for families or groups of friends (2–5 people).",
+      "Group discounts on personal training sessions or classes.",
+      "Encourages community and group motivation for fitness goals.",
+      "Access to family-friendly facilities like kids’ play areas (where available).",
+      "Flexible transfer of unused sessions between family members."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 8,
+    "model": "Corporate Plan",
+    "price": "$500–$2,000/month (for teams of 10–50 employees)",
+    "features": [
+      "Discounted memberships negotiated with companies for employees’ wellness programs.",
+      "Custom fitness challenges and events tailored for corporate teams.",
+      "Access to mental health resources like meditation sessions or counseling services.",
+      "'Wellness Days' with free workshops on fitness and nutrition for employees.",
+      "'Work-from-gym' options with co-working spaces in select locations."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 9,
+    "model": "Session-Based Plan",
+    "price": "$30–$100/session (depending on trainer expertise)",
+    "features": [
+      "Ideal for personal training or specialty programs like boxing, Pilates, etc.",
+      "'Pay-per-session' flexibility without the need for long-term commitment.",
+      "'Trainer Match' feature to find the best trainer based on your goals and preferences.",
+      "'Skill Progression Tracking' included with each session via mobile app integration."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 10,
+    "model": "Annual Plan",
+    "price": "$188–$997/year (discounted compared to monthly payments)",
+    "features": [
+      "'One-time payment' option with significant savings over monthly plans.",
+      "'Loyalty Rewards Program' offering perks like free merchandise or additional sessions after renewal.",
+      "'Freeze Membership' option available for vacations or emergencies (up to 2 months per year).",
+      "'Welcome Kit' with gym-branded gear upon sign-up."
+    ],
+    "button": "Buy Plan"
+  },
+  {
+    "id": 11,
+    "model": "Off-Peak Plan",
+    "price": "$15–$50/month (lower rates during non-busy hours)",
+    "features": [
+      "'Restricted Access' limited to quieter times like early mornings or afternoons only (no evenings/weekends).",
+      "'Budget-Friendly Option' ideal for students, freelancers, or retirees with flexible schedules.",
+      "'Off-Peak Discounts' on personal training sessions booked during these hours."
+    ],
+    "button": "Buy Plan"
+  }
+]
