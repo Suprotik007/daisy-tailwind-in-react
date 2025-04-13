@@ -5,6 +5,7 @@ import './App.css'
 import Navbar from './components/navigation/Navbar'
 // import PriceBox from './components/PriceBox'
 import PriceBox from './components/Pricelist/PriceBox'
+import ResultChart from './components/ResultChart/ResultChart'
 
  
 
@@ -26,6 +27,7 @@ function App() {
 <Suspense fallback={<span className="loading loading-spinner text-warning"></span>}>
  <PriceBox pricePromise={pricePromise}></PriceBox>
   </Suspense>
+  <ResultChart></ResultChart>
 </main>
     </div>
   
