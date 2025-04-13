@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Student 1",
+      "subjects": {
+        "physics": 27,
+        "chemistry": 21,
+        "math": 45
+      }
+    },
+    {
+      "id": 2,
+      "name": "Student 2",
+      "subjects": {
+        "physics": 22,
+        "chemistry": 85,
+        "math": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Student 3",
+      "subjects": {
+        "physics": 65,
+        "chemistry": 70,
+        "math": 80
+      }
+    },
+    {
+      "id": 4,
+      "name": "Student 4",
+      "subjects": {
+        "physics": 74,
+        "chemistry": 49,
+        "math": 60
+      }
+    },
+    {
+      "id": 5,
+      "name": "Student 5",
+      "subjects": {
+        "physics": 22,
+        "chemistry": 62,
+        "math": 55
+      }
+    },
+    {
+      "id": 6,
+      "name": "Student 6",
+      "subjects": {
+        "physics": 63,
+        "chemistry": 60,
+        "math": 70
+      }
+    },
+    {
+      "id": 7,
+      "name": "Student 7",
+      "subjects": {
+        "physics": 57,
+        "chemistry": 96,
+        "math": 90
+      }
+    },
+    {
+      "id": 8,
+      "name": "Student 8",
+      "subjects": {
+        "physics": 8,
+        "chemistry": 30,
+        "math": 20
+      }
+    },
+    {
+      "id": 9,
+      "name": "Student 9",
+      "subjects": {
+        "physics": 70,
+        "chemistry": 28,
+        "math": 50
+      }
+    },
+    {
+      "id": 10,
+      "name": "Student 10",
+      "subjects": {
+        "physics": 65,
+        "chemistry": 97,
+        "math": 95
+      }
+    }
+  ]
+  
